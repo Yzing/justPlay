@@ -1,6 +1,6 @@
 <template lang="html">
   <div class="">
-    <h1>home</h1>
+    <h1>Mine</h1>
   </div>
 </template>
 
@@ -9,5 +9,5 @@ export default {
 }
 </script>
 
-<style lang="css" scoped>
+<style lang="css">
 </style>

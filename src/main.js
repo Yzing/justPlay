@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import '@/styles/global.less'
+import './icons'
 
 Vue.config.productionTip = false
 
