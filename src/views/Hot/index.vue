@@ -1,6 +1,6 @@
 <template lang="html">
   <div class="">
-    <h1>Hot</h1>
+    Hot
   </div>
 </template>
 
